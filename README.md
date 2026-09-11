@@ -1,0 +1,1 @@
+# Hypersnap-Full-Version
