@@ -237,4 +237,4 @@ This repository serves as the official landing page for HyperSnap. The software 
 **Get the most recent version of HyperSnap today!**
 
 ---
-**Last updated:** 2026-09-12 12:43:08 UTC
+**Last updated:** 2026-09-12 16:04:25 UTC
